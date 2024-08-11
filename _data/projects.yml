@@ -1,0 +1,15 @@
+- name: LLM-powered Research Assistant
+  description: An AI-driven tool that assists researchers in literature review and data analysis.
+  link: https://github.com/BryanNsoh/llm-research-assistant
+
+- name: Automated Report Generator
+  description: A system that uses LLMs to generate comprehensive reports from raw data and notes.
+  link: https://github.com/BryanNsoh/auto-report-gen
+
+- name: Biosystems Optimization AI
+  description: An AI model that optimizes biological systems for increased efficiency and sustainability.
+  link: https://github.com/BryanNsoh/bio-opt-ai
+
+- name: Intelligent Document Classifier
+  description: An LLM-based tool that automatically categorizes and tags scientific documents.
+  link: https://github.com/BryanNsoh/doc-classifier
